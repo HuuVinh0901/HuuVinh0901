@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuVinh0901)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuVinh0901&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
