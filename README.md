@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuVinh0901&theme=radical)
-
-Here are some ideas to get you started:
+![HuuVinh0901's Stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901&theme=radical&show_icons=true&hide_border=false&count_private=false)
+![HuuVinh0901's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuuVinh0901&theme=radical&hide_border=false)
+![HuuVinh0901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuVinh0901&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
