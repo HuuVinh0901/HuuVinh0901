@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901&show_icons=true)
+
 ![HuuVinh0901's Stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901&theme=radical&show_icons=true&hide_border=false&count_private=false)
 ![HuuVinh0901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuVinh0901&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
