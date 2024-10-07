@@ -4,6 +4,6 @@
 
 ![HuuVinh0901's Stats](https://github-readme-stats.vercel.app/api?username=HuuVinh0901&theme=radical&show_icons=true&hide_border=false&count_private=false)
 ![HuuVinh0901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuVinh0901&theme=radical&show_icons=true&hide_border=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=HuuVinh0901&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 
