@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Huu Vinh</h1>
-<h3 align="center">Intern Java developer from Viet Nam</h3>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e932f5b5-89e9-4a98-9f73-3cba075a8f9c" alt="Vietnam Flag" width="100" />
-</p>
+<h3 align="center">Intern Java developer from <span style="position: relative;">Viet Nam
+  <img src="https://github.com/user-attachments/assets/e932f5b5-89e9-4a98-9f73-3cba075a8f9c" alt="Vietnam Flag" width="30" style="position: absolute; left: 0; top: 0; opacity: 0.7;" />
+</span></h3>
+
 
 
 
