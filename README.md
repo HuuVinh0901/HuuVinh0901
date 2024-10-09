@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huu Vinh</h1>
-<h3 align="center">Intern Java developer from Viet Nam </h3>![image](https://github.com/user-attachments/assets/e932f5b5-89e9-4a98-9f73-3cba075a8f9c)
+<h3 align="center">Intern Java developer from Viet Nam</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e932f5b5-89e9-4a98-9f73-3cba075a8f9c" alt="Vietnam Flag" width="100" />
+</p>
+
 
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhma3MwMHZneGJ3ZXN2Mzh2dXVia24yaGY2NnpodjJ2dWRuMGwzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="Animated GIF" width="1200" />
