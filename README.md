@@ -10,7 +10,7 @@ Huu Vinh</a>, but you can call me Vincent</h1>
 <p>🎓 Senior **Software Engineering** student</p>
 </li>
 <li>
-<p>💼 Currently interning as a PHP developer at a Japanese software company</p>
+<p>💼 Currently interning as a software developer at a Japanese software company.</p>
 </li>
 <li>
 <p>🤝 I’m available for freelancing.</p>
