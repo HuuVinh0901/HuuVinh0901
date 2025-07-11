@@ -1,8 +1,9 @@
-<h1 align="center">
+<h1 align="center" style="font-family: Arial, sans-serif;">
   Hi 👋, I'm 
   <a href="#" style="color: inherit; text-decoration: none; pointer-events: none;">Huu Vinh</a>, 
   but you can call me <span style="color: #ff6600; font-weight: bold; font-style: italic;">Vincent</span>
 </h1>
+
 <div class="google-auto-placed" bis_skin_checked="1" style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto; background-color: transparent; height: 0px;" data-ad-status="unfilled"><div id="aswift_2_host" bis_skin_checked="1" style="border: none; height: 0px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: hidden; opacity: 0;"></div></ins></div><p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
