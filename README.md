@@ -10,16 +10,16 @@
 </a>
 <ul>
 <li>
-<p>🎓 Senior **Software Engineering** student</p>
+<p>Senior **Software Engineering** student</p>
 </li>
 <li>
-<p>💼 Currently interning as a software developer at a Japanese software company.</p>
+<p>Currently working as a Junior Software Developer at a Japanese software company.</p>
 </li>
 <li>
-<p>🤝 I’m available for freelancing.</p>
+<p>I’m available for freelancing.</p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="phamhuuvinh912003@gmail.com">phamhuuvinh912003@gmail.com</a></strong></p>
+<p>How to reach me <strong><a href="phamhuuvinh912003@gmail.com">phamhuuvinh912003@gmail.com</a></strong></p>
 </li>
 </ul>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
