@@ -10,8 +10,6 @@
 </a>
 <ul>
 <li>
-</li>
-<li>
 <p>Junior Software Developer</p>
 </li>
 <li>
