@@ -10,7 +10,6 @@
 </a>
 <ul>
 <li>
-<p>Senior **Software Engineering** student</p>
 </li>
 <li>
 <p>Junior Software Developer</p>
