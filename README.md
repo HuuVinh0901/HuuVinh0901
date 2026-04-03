@@ -13,7 +13,7 @@
 <p>Senior **Software Engineering** student</p>
 </li>
 <li>
-<p>Junior Software Developer at a Japanese software company.</p>
+<p>Junior Software Developer</p>
 </li>
 <li>
 <p>I’m available for freelancing.</p>
